@@ -17,3 +17,6 @@ Dia:
 http://dia-installer.de/download/index.html.de
 Entity, Relationship, Attribute
 
+Primary key starting value ändern:
+ALTER TABLE kunde AUTO_INCREMENT=1001;
+
